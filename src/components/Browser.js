@@ -4,7 +4,7 @@ import MainContainer from "./MainContainer";
 import SecondaryContainer from "./SecondaryContainer.js";
 import usePopularMovies from "/src/hooks/usePopularMovies.js";
 import useTopRatedMovies from "/src/hooks/useTopRatedMovies.js";
-import useUpComingMovie from "/src/hooks/useUpcomingMovie.js";
+import useUpComingMovie from "/src/hooks/useUpComingMovie.js";
 import Header from "./Header.js";
 import GPTSearch from "./GPTSearch.js";
 import { useSelector } from "react-redux";
