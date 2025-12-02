@@ -1,4 +1,3 @@
-import React from "react";
 import { IMG_BASE_URL } from "../utils/constant";
 
 export const MovieCard = ({ movieData }) => {

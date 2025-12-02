@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import InputBox from "./InputBox";
 import CheckValidata from "../utils/Validata";
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";

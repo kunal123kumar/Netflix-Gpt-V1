@@ -1,4 +1,3 @@
-import React from "react";
 import LoginFrom from"./LoginFrom"
 import Information from "./Information"
 

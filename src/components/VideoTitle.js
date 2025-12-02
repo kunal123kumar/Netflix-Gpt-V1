@@ -1,5 +1,4 @@
 // ViedoTitle.js
-import React from "react";
 import { Info, Play } from "lucide-react";
 import { useSelector } from "react-redux";
 import lang from "../utils/LangauageConstant.js";

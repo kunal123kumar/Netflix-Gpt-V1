@@ -1,4 +1,3 @@
-import React from "react";
 import lang from "../utils/LangauageConstant.js";
 import { useSelector } from "react-redux";
 const Infomation = () => {

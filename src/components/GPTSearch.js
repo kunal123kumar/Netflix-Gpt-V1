@@ -1,4 +1,3 @@
-import React from "react";
 import GPTSearchBar from "./GPTSearchBar";
 import GPTMovieSuggestion from "./GPTMovieSuggestion";
 

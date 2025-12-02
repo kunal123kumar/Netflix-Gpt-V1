@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Languages } from "lucide-react";
 import { SUPPORTED_LANGUAGES } from "../utils/constant.js";
 import { useDispatch } from "react-redux";

@@ -1,4 +1,3 @@
-import React from "react";
 import useNowPlayingMovies from "/src/hooks/useNowPlayingMovie.js";
 import MainContainer from "./MainContainer";
 import SecondaryContainer from "./SecondaryContainer.js";

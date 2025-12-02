@@ -1,4 +1,3 @@
-import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router";
 import Login from "./Login";
 import Browser from "./Browser";

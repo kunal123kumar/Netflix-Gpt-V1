@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { onAuthStateChanged } from 'firebase/auth';
 import auth from "../utils/firebase"; // Make sure this exports your Firebase auth instance
 

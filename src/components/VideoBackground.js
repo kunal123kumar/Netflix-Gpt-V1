@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { API_OPTIONS } from "../utils/constant";
 
 const VideoBackground = ({ movieId }) => {

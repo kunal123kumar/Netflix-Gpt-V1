@@ -1,4 +1,4 @@
-import React, { forwardRef } from "react";
+import { forwardRef } from "react";
 
 const InputBox = forwardRef(({ type, placeholder }, ref) => {
   return (
