@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# build output
+dist
+/.parcel-cache
+
+# firebase files that should not be committed (contains build configuration and possibly secrets)
+.firebase/
+.firebaserc
